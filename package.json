@@ -12,6 +12,8 @@
     "body-parser": "^1.18.2",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
+    "geoip-lite": "^1.2.1",
+    "geolocation": "^0.2.0",
     "request": "^2.83.0",
     "yargs": "^11.0.0"
   }

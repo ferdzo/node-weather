@@ -25,10 +25,10 @@ request(url, function (err, response, body) {
       consle.log("High Air Pressure")
     }
 
-    /*console.log(temp);
+    console.log(temp);
     console.log(humidity);
     console.log(pressure);
-    */
+    
     console.log(message);
     } 
 });
